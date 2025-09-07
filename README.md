@@ -1,11 +1,11 @@
-# 🌐 Traffic Analysis
+# 🌐 Network Traffic Analysis
 
-This repository contains examples of QA exercises with traffic interception and modification.  
-It demonstrates skills in manipulating network requests, simulating server responses, and redirecting traffic between environments.
+This repository contains examples of QA exercises with network traffic interception and modification.  
+It demonstrates skills in manipulating network requests, simulating server responses, and redirecting network traffic between environments.
 
 ---
 
-## 📂 Contents / Video Exercises
+## 📂 Contents 
 
 ### 1️⃣ Modifying Cart Quantity
 - **Task:** Change the number of items in the shopping cart
@@ -28,14 +28,6 @@ It demonstrates skills in manipulating network requests, simulating server respo
 
 ---
 
-## 🎯 What this repository shows
-- Intercepting and modifying network traffic  
-- Simulating different server responses (e.g., 403 Forbidden)  
-- Redirecting requests between environments (Prod → Stage)  
-
----
-
 ## 🔧 Tools & Techniques
 - Network sniffer / proxy: **Charles**    
-- Understanding of HTTP requests and responses  
-- QA testing techniques for security and functional scenarios  
+- Comprehension of HTTP requests and responses  
